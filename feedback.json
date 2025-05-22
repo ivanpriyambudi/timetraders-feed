@@ -13,5 +13,20 @@
         "title": "Testi 3",
         "caption": "Testi 3",
         "url": "/assets/testi-3.png"
+    },
+    {
+        "title": "Testi 1",
+        "caption": "Testi 1",
+        "url": "/assets/testi-1.png"
+    },
+    {
+        "title": "Testi 2",
+        "caption": "Testi 2",
+        "url": "/assets/testi-2.png"
+    },
+    {
+        "title": "Testi 3",
+        "caption": "Testi 3",
+        "url": "/assets/testi-3.png"
     }
 ]
